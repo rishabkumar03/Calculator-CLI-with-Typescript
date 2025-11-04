@@ -105,12 +105,12 @@ To modify or extend functionality:
 
 - Enter valid numerical values and one of the four supported operators
 
-### Security Considerations
+## Security Considerations
 
 - Runs locally in the terminal — no external network or file operations
 - Safe for use in educational and offline environments
 
-### Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
